@@ -5,8 +5,8 @@ export default function Home() {
   return (
     <div>
       <Input />
-      <Button variant="primary">
-        Primary
+      <Button size="xs">
+        Primary123
       </Button>
       <Button variant="secondary">
         Secondary
