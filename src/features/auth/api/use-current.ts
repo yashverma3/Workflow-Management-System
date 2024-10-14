@@ -18,5 +18,5 @@ export const useCurrent = () => {
         },
     });
 
-    return query;
+    return query;   
 };
